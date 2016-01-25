@@ -1,4 +1,4 @@
-# BKA Angular Technical Test
+# Angular Technical Test
 
 ```
 npm install
